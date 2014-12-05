@@ -1,3 +1,3 @@
-for x in range(0, 255):
+for x in range(0, 365):
  print(x, end=' = ')
  print(chr(x))
